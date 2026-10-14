@@ -1,4 +1,4 @@
-# Studio 2 — Klasifikasi Sampah · Kelompok \<16/FARID 16 PRO MAX 256 GB NATURAL TITANIUM>
+# Studio 2 — Klasifikasi Sampah · Kelompok \16/FARID 16 PRO MAX 256 GB NATURAL TITANIUM
 
 Deep Learning (IF25-40401) · Teknik Informatika ITERA · Semester Ganjil 2026/2027
 
